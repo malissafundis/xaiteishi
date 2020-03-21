@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oocaixaiya.gn-soon.kr/sitemap.xml
